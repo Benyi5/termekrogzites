@@ -1,0 +1,1 @@
+// ajaxos megoldás a gyumik oldalnál
